@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.AssemblyInfo.cs
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Estudando\Estudando\bin\Debug\net8.0\Estudando.exe
+C:\Users\diego\source\repos\Estudando\Estudando\bin\Debug\net8.0\Estudando.deps.json
+C:\Users\diego\source\repos\Estudando\Estudando\bin\Debug\net8.0\Estudando.runtimeconfig.json
+C:\Users\diego\source\repos\Estudando\Estudando\bin\Debug\net8.0\Estudando.dll
+C:\Users\diego\source\repos\Estudando\Estudando\bin\Debug\net8.0\Estudando.pdb
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.dll
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\refint\Estudando.dll
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.pdb
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\Estudando.genruntimeconfig.cache
+C:\Users\diego\source\repos\Estudando\Estudando\obj\Debug\net8.0\ref\Estudando.dll
