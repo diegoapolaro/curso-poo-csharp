@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\bin\Debug\net8.0\Learning Enum (order program).exe
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\bin\Debug\net8.0\Learning Enum (order program).deps.json
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\bin\Debug\net8.0\Learning Enum (order program).runtimeconfig.json
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\bin\Debug\net8.0\Learning Enum (order program).dll
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\bin\Debug\net8.0\Learning Enum (order program).pdb
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).AssemblyInfo.cs
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).dll
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\refint\Learning Enum (order program).dll
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).pdb
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\Learning Enum (order program).genruntimeconfig.cache
+C:\Users\diego\source\repos\Learning Enum (order program)\Learning Enum (order program)\obj\Debug\net8.0\ref\Learning Enum (order program).dll
