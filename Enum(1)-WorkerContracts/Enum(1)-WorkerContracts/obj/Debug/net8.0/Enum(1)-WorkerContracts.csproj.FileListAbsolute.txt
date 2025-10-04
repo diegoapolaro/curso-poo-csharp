@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\bin\Debug\net8.0\Enum(1)-WorkerContracts.exe
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\bin\Debug\net8.0\Enum(1)-WorkerContracts.deps.json
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\bin\Debug\net8.0\Enum(1)-WorkerContracts.runtimeconfig.json
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\bin\Debug\net8.0\Enum(1)-WorkerContracts.dll
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\bin\Debug\net8.0\Enum(1)-WorkerContracts.pdb
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.AssemblyInfo.cs
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.dll
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\refint\Enum(1)-WorkerContracts.dll
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.pdb
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\Enum(1)-WorkerContracts.genruntimeconfig.cache
+C:\Users\diego\source\repos\Enum(1)-WorkerContracts\Enum(1)-WorkerContracts\obj\Debug\net8.0\ref\Enum(1)-WorkerContracts.dll
