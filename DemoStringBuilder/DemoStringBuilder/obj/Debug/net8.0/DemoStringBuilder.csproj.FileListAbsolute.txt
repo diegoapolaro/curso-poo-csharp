@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.exe
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.deps.json
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.runtimeconfig.json
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.dll
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\bin\Debug\net8.0\DemoStringBuilder.pdb
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.AssemblyInfo.cs
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.dll
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\refint\DemoStringBuilder.dll
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.pdb
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\DemoStringBuilder.genruntimeconfig.cache
+C:\Users\diego\source\repos\DemoStringBuilder\DemoStringBuilder\obj\Debug\net8.0\ref\DemoStringBuilder.dll
