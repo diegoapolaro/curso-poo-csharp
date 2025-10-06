@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).AssemblyInfo.cs
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\bin\Debug\net8.0\OrderProgram(2).exe
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\bin\Debug\net8.0\OrderProgram(2).deps.json
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\bin\Debug\net8.0\OrderProgram(2).runtimeconfig.json
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\bin\Debug\net8.0\OrderProgram(2).dll
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\bin\Debug\net8.0\OrderProgram(2).pdb
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).dll
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\refint\OrderProgram(2).dll
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).pdb
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\OrderProgram(2).genruntimeconfig.cache
+C:\Users\diego\source\repos\OrderProgram(2)\OrderProgram(2)\obj\Debug\net8.0\ref\OrderProgram(2).dll
