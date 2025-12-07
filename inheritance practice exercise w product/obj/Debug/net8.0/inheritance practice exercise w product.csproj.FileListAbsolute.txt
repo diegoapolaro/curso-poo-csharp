@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.AssemblyInfo.cs
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\bin\Debug\net8.0\inheritance practice exercise w product.exe
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\bin\Debug\net8.0\inheritance practice exercise w product.deps.json
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\bin\Debug\net8.0\inheritance practice exercise w product.runtimeconfig.json
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\bin\Debug\net8.0\inheritance practice exercise w product.dll
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\bin\Debug\net8.0\inheritance practice exercise w product.pdb
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.dll
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\refint\inheritance practice exercise w product.dll
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.pdb
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\inheritance practice exercise w product.genruntimeconfig.cache
+C:\Users\diego\source\repos\inheritance practice exercise w product\inheritance practice exercise w product\obj\Debug\net8.0\ref\inheritance practice exercise w product.dll
