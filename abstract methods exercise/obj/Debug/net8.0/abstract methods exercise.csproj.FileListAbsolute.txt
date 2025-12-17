@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\bin\Debug\net8.0\abstract methods exercise.exe
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\bin\Debug\net8.0\abstract methods exercise.deps.json
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\bin\Debug\net8.0\abstract methods exercise.runtimeconfig.json
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\bin\Debug\net8.0\abstract methods exercise.dll
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\bin\Debug\net8.0\abstract methods exercise.pdb
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.AssemblyInfo.cs
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.dll
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\refint\abstract methods exercise.dll
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.pdb
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\abstract methods exercise.genruntimeconfig.cache
+C:\Users\diego\source\repos\abstract methods exercise\abstract methods exercise\obj\Debug\net8.0\ref\abstract methods exercise.dll
