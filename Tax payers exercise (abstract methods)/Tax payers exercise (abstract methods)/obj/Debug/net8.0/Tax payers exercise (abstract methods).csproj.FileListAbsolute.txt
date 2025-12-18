@@ -1,0 +1,14 @@
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).AssemblyInfo.cs
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\bin\Debug\net8.0\Tax payers exercise (abstract methods).exe
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\bin\Debug\net8.0\Tax payers exercise (abstract methods).deps.json
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\bin\Debug\net8.0\Tax payers exercise (abstract methods).runtimeconfig.json
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\bin\Debug\net8.0\Tax payers exercise (abstract methods).dll
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\bin\Debug\net8.0\Tax payers exercise (abstract methods).pdb
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).dll
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\refint\Tax payers exercise (abstract methods).dll
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).pdb
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\Tax payers exercise (abstract methods).genruntimeconfig.cache
+C:\Users\diego\source\repos\Tax payers exercise (abstract methods)\Tax payers exercise (abstract methods)\obj\Debug\net8.0\ref\Tax payers exercise (abstract methods).dll
